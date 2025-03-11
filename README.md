@@ -23,6 +23,7 @@ To perform vector addition on host and device.
 ## EQUIPMENTS REQUIRED :
 
 Hardware – PCs with NVIDIA GPU & CUDA NVCC
+
 Google Colab with NVCC Compiler
 
 ## PROCEDURE :
